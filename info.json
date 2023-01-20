@@ -1,0 +1,9 @@
+{
+  "name": "FortressRuinsFixAliendroneTimer",
+  "version": "1.0.0",
+  "title": "The Ruins Mod - Fortress Ruins Fix for Alien drone Timer",
+  "author": "Seth",
+  "factorio_version": "1.1",
+  "description": "Reduces the timer on alien drones spawned by attacking certain buildings added by Fortress Ruins.",
+  "dependencies": ["? FortressRuinsK2SEFix >= 1.0.0", "? FortressRuins >= 1.0.4"]
+}

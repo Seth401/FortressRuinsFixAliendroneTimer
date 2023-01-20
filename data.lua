@@ -1,0 +1,1 @@
+data.raw["combat-robot"]["aliendrone"].time_to_live = settings.startup["FortressRuinsFixAliendroneTimer-timer"].value * 60
