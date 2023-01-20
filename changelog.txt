@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-01-20
+  Changes:
+    - Initial release that allows to use a setting to modify the time_to_live on alien drones from Fortress Ruins.
